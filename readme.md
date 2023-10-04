@@ -1,0 +1,1 @@
+Projekt WSM merito w ramach zajęć z przedmiotu Narzędzia Wspierające Wytwarzania oprogramowania
